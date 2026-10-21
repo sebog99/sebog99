@@ -1,10 +1,9 @@
-## Hi there 👋
+# Hi there 👋  
+### My name is Sebastian
 
-### My name is Sebastian O
+I recently graduated from IE University with a Master of Science (M.S.) in **Business Analytics & Data Science**. I've worked in different fields and industries leaning into data roles like *Data Analyst* in Supply Chain, and now making my way to GenAI, Data Engineering, Automation, Forecasting and MLOps (and any other filed that seems interesting 😄).
 
-- 👨‍🎓 I'm a Mechatronics Engineer 🤖.
-- 🌱 I’m currently learning **Data Science** 💻.
-- 👯 I’m looking to collaborate on any basic-level project to **learn** lots from others 📖.
-- 🤔 I’m looking for help with new ideas for projects.
-- 📫 How to reach me: Through my [LinkedIn](www.linkedin.com/in/sog99).
-- ⚡ Fun fact: I love mexican food but I'm terrible with spicy food 🌶️.
+This nature of reaching out to many aspects comes from my Bachelor's degree in **Mechatronics Engineering** from Tec de Monterrey 🇲🇽.
+##
+
+📫 How to reach me: Through my [LinkedIn](www.linkedin.com/in/sog99).
